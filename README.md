@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hello, 👋
 
-My name is Zeynep. I am currently pursuing my bachelor's / master's in statistics with a concentration in data science. 
-If I am not working on a project, you might find me playing Sims 4! or going on a hike. My goal is to visit every national park in the U.S.
+My name is Zeynep. I am pursuing my bachelor's / master's in statistics with a concentration in data science. 📊
+I have experience with other statistical software (such as SAS, MATLAB, IBM SPSS, Minitab)  that I couldn't find a badge for yet. 🙂
+
+If I am not working on a project, you might find me playing Sims 4 or going on a hike! My goal is to visit every national park in the U.S.🌲
 
 
 ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
