@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Zeynep. I am currently pursuing my bachelor's / master's in statistics with a concentration in data science.
+My name is Zeynep. I am currently pursuing my bachelor's / master's in statistics with a concentration in data science. 
+If I am not working on a project, you might find me playing Sims 4! or going on a hike. My goal is to visit every national park in the U.S.
 
 
 ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -9,7 +10,7 @@ My name is Zeynep. I am currently pursuing my bachelor's / master's in statistic
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
