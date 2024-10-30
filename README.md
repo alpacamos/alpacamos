@@ -5,7 +5,7 @@ I have experience with other statistical software (such as SAS, MATLAB, IBM SPSS
 
 If I am not working on a project, you might find me playing Sims 4 or going on a hike! My goal is to visit every national park. 🌲
 
-[![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpacamos)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpacamos&layout=compact)
 
 
 ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
