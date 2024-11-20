@@ -1,4 +1,4 @@
-## Hello HASGDHKAG, 👋
+## Hello, 👋
 
 My name is Zeynep. I am pursuing my bachelor's / master's in statistics with a concentration in data science. 📊
 I have experience with other statistical software (such as SAS, MATLAB, IBM SPSS, Minitab)  that I couldn't find a badge for yet. 🙂
